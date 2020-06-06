@@ -1,5 +1,6 @@
 ## Abstract
-This little project consists in a fake authorization control that User can just acess /logged if the isAuthenticate() is true, simulating a localStorage. Besides that, in endpoint /loggin it's shown my github's projects using fetch, therewith you can favorited every single project, using the basic concepts of rect-hooks (useEffect and useState) 
+
+This little project consists in a fake authorization control that User can just acess /logged if the isAuthenticate() is true, simulating a localStorage. Besides that, in endpoint /loggin it's shown my github's projects using fetch, therewith you can favorite every single project, using the basic concepts of rect-hooks (useEffect and useState)
 
 ## Available Scripts
 
